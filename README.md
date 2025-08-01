@@ -18,6 +18,7 @@ a starter project on U.S. Housing Trends to help learn technologies like d3.js, 
 
 * **MetricCards** → Show latest price index + YoY change.
 * **LineChart (D3)** → Plot housing prices over time.
+* **Table of housing data**
 * Add `useEffect` in React to fetch and format the API data.
 
 ### **4. Add Interactivity**
